@@ -35,6 +35,6 @@ nvim
 
 ## Customization
 
-- add <leader>be to show the full path of current buffer by add:
+- Add <leader>be to show the full path of current buffer by add:
   
   ~/.config/nvim/lua/plugins/mappings.lua
