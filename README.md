@@ -24,7 +24,7 @@ git clone git@github.com:laowalter/AstroNvim.git ~/.config/nvim
 #### Start Neovim
 
 ```shell
-nvim
+nvim  # wait ... until some thing comes out
 ```
 
 ## Customization
