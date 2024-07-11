@@ -32,3 +32,9 @@ nvim  # wait ... until some thing comes out
 - Add <leader>be to show the full path of current buffer by add:
   
   ~/.config/nvim/lua/plugins/mappings.lua
+
+## Two package I manualy installed
+
+- dev-util/shellcheck-bin
+- dev-util/sh
+
